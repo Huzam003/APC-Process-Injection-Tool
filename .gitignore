@@ -1,0 +1,16 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.sln
+*.suo
+
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.bin
+*.asm.obj
+
+# MacOS files
+.DS_Store
